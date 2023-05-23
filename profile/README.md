@@ -7,3 +7,5 @@
 - [M.Cherepan](https://github.com/PolShestogo)
 - [V.Ponomarev](https://github.com/vadimyt)
 - [P.Gromova](https://github.com/jowlly)
+- [M.Aleksandrova](https://github.com/S1stemus)
+- [M.Islamov](https://github.com/milana-cat)
